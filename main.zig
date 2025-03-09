@@ -89,7 +89,6 @@ const DirStat = struct {
 
 };
 
-
 pub fn main() !void {
 
     const dirname = "./test/";
